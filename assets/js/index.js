@@ -1,7 +1,8 @@
 // JavaScript files are compiled and minified during the build process to the assets/built folder. See available scripts in the package.json file.
 
 // Import CSS
-import "../css/index.css";
+// george, 101724, replace ghost import of index.css with tailwind support
+// import "../css/index.css";
 
 // Import JS
 import menuOpen from "./menuOpen";
